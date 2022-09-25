@@ -12,10 +12,7 @@ Live here: https://spam-identify.herokuapp.com/
 
 ## How to install this ReactJS project?
 
-1. Fork this repository, It will make a copy of this repository in your github account.
-2. Clone your fork, use command - `git clone https://github.com/<your username>/modern_portfolio.git`.
-3. Install the required packeges to run this project..
-4. Your good to go, you can run this project now
+
 
 
 ## How to tweak this project for your own uses
