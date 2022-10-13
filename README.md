@@ -4,7 +4,7 @@
 ## A website to Identify whether the message is spam or not.
 
 This project has these features - 
-* CWrite message or pase message
+* Write message or pase message
 * Classify message.
 
 ### Technologies used: Python - various ML algorithms, streamlit
